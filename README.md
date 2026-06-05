@@ -1,5 +1,5 @@
 # Project Repositoty 
 This is project repository
 
-## Details about the project here
-This project simplifies daily tasks by predefined depenencies.
+## About me
+ I am Sachin and i am learnig Github.
