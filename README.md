@@ -1,3 +1,4 @@
-# This is project repository
+# Project Repositoty 
+This is project repository
 
 ## Details about the project here
